@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-ExtraBold.woff2') format('woff2'),
+        url('EncodeSansExpanded-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-Black.woff2') format('woff2'),
+        url('EncodeSansExpanded-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-Bold.woff2') format('woff2'),
+        url('EncodeSansExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-Light.woff2') format('woff2'),
+        url('EncodeSansExpanded-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-Medium.woff2') format('woff2'),
+        url('EncodeSansExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-ExtraLight.woff2') format('woff2'),
+        url('EncodeSansExpanded-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-SemiBold.woff2') format('woff2'),
+        url('EncodeSansExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-Regular.woff2') format('woff2'),
+        url('EncodeSansExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('EncodeSansExpanded-Thin.woff2') format('woff2'),
+        url('EncodeSansExpanded-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

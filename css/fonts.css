@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-ExtraBold.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-Black.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-Bold.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-Light.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-Medium.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-ExtraLight.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-SemiBold.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-Regular.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Encode Sans Expanded';
+    src: url('../fonts/EncodeSansExpanded-Thin.woff2') format('woff2'),
+        url('../fonts/EncodeSansExpanded-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+

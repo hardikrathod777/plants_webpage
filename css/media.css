@@ -1,0 +1,354 @@
+@media(max-width:576px){
+    .font-s{
+        font-size: 20px;
+    }
+    .banner-text{
+        font-size: 10px !important;
+    }
+    .hs{
+        border-radius: 6px;
+        padding: 5px 10px;
+        font-size: 5px;
+        margin-top: 10px !important;
+    }
+    .box-center{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .about-banner{
+        height: 1000px;
+    }
+    .img-width{
+        width: 550px;
+    }
+    .ffs p{
+        font-size: 10px;  
+    }
+    .ffs{
+        font-size: 14px !important;
+    }
+    .f-input-w{
+        width: 150px !important;
+    }
+    .form-floating>label{
+        font-size: 12px !important;
+    }
+    .footer-img{
+        height: 200px !important;
+        margin-top: 50px !important;
+    }
+    .fi-1-img{
+        width: 250px !important;
+        height: 320px !important;
+        padding-left: 40px;
+        padding-top: 10px;
+    }
+    .f-plants-1{
+        width: 250px !important;
+        height: 320px !important;
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+    .about-us-img1{
+        width: 550px !important;
+    }
+    .per1-box{
+        width: 450px !important;
+    }
+    .our-blog-1{
+        width: 550px !important;
+    }
+    .home-f{
+        margin-right: 0% !important;
+    }
+    .pos-sm{
+        left: 0% !important;
+    }
+    .card-sm-w{
+        width: 260px !important;
+    }
+    .sm-pad{
+        padding-left: 80px !important;
+    }
+    .sm-per-pd{
+        padding-left: 50px !important;
+    }
+    .m-t{
+        margin-top: 10px;
+    }
+    .sm-fs{
+        font-size: 10px !important;
+    }
+    
+}
+@media (min-width:576px) {
+    
+    .font-s{
+        font-size: 20px;
+    }
+    .banner-text{
+        font-size: 10px !important;
+    }
+    .hs{
+        border-radius: 6px;
+        padding: 5px 10px;
+        font-size: 5px;
+        margin-top: 10px !important;
+    }
+    .box-center{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+    .about-banner{
+        height: 1000px;
+    }
+    .img-width{
+        width: 550px;
+    }
+    .ffs p{
+        font-size: 10px;  
+    }
+    .ffs{
+        font-size: 14px !important;
+    }
+    .f-input-w{
+        width: 150px !important;
+    }
+    .form-floating>label{
+        font-size: 12px !important;
+    }
+    .footer-img{
+        height: 200px !important;
+        margin-top: 50px !important;
+    }
+    .fi-1-img{
+        width: 250px !important;
+        height: 320px !important;
+        padding-left: 40px;
+        padding-top: 10px;
+    }
+    .f-plants-1{
+        width: 250px !important;
+        height: 320px !important;
+        padding-left: 20px;
+        padding-top: 10px;
+    }
+    .about-us-img1{
+        width: 550px !important;
+    }
+    .per1-box{
+        width: 450px !important;
+    }
+    .our-blog-1{
+        width: 550px !important;
+    }
+    .home-f{
+        margin-right: 0% !important;
+    }
+    .pos-sm{
+        left: 0% !important;
+    }
+    .card-sm-w{
+        width: 260px !important;
+    }
+    .sm-pad{
+        padding-left: 80px !important;
+    }
+    .sm-per-pd{
+        padding-left: 50px !important;
+    }
+    .m-t{
+        margin-top: 10px;
+    }
+    .sm-fs{
+        font-size: 8px !important;
+    }
+    
+}
+@media(min-width:768px){
+    .continer{
+        width: 720px;
+    }
+    .sm-fs{
+        font-size: 12px !important;
+    }
+    .card-sm-w{
+        width: 260px !important;
+    }
+    .sm-pad{
+        padding-left: 120px !important;
+    }
+    .ps-md{
+        padding-left: 90px !important;
+    }
+    .padding-md{
+        padding-left: 70px !important;
+    }
+    .per1-box{
+        width: 600px !important;
+    }
+    .sm-per-pd{
+        padding-left: 70px !important;
+    }
+    .fi-1-img{
+        width: 260px !important;
+        height: 320px !important;
+        padding-left: 10px;
+        padding-top: 10px;
+    }
+    .f-plants-1{
+        width: 360px !important;
+        height: 320px !important;
+        padding-left: 88px;
+        padding-top: 10px;
+    }
+}
+
+@media(min-width:992px){
+    .continer{
+        width: 960px;
+    }
+    .sm-fs{
+        font-size: 16px !important;
+    }
+    .banner-text{
+        font-size: 12px !important;
+    }
+    .font-s{
+        font-size: 30px;
+    }
+    .hs{
+        border-radius: 6px;
+        padding: 10px 15px;
+        font-size: 10px;
+        margin-top: 10px !important;
+    }
+    .card-sm-w{
+        width: 300px !important;
+    }
+    .ps-md{
+        padding-left: 110px !important;
+    }
+    .padding-md{
+        padding-left: 180px !important;
+    }
+    .sm-per-pd{
+        padding-left: 180px !important;
+    }
+    .per1-box{
+        width: 650px !important;
+    }
+}
+
+@media(min-width:1200px){
+    .banner-text{
+        font-size: 16px !important;
+    }
+    .font-s{
+        font-size: 35px;
+    }
+    .card-sm-w{
+        width: 260px !important;
+    }
+    .ps-md{
+        padding-left: 0px !important;
+    }
+    .sm-pad{
+        padding-left: 0px !important;
+    }
+    .padding-md{
+        padding-left: 0px !important;
+    }
+    .about-banner{
+        height: 520px;
+    }
+    .per1-box{
+        width: 500px !important;
+    }
+    .sm-per-pd{
+        padding-left: 50px !important;
+    }
+    .fi-1-img{
+        width: 350px !important;
+        height: 320px !important;
+        padding-left: 0px;
+    }
+    .f-plants-1{
+        width: 250px !important;
+        height: 320px !important;
+        padding-left: 0px;
+    }
+    .box-xl-pd{
+        padding-left: 90px;
+    }
+    .img-width{
+        width: 605px;
+        height: 355px;
+    }
+    .box-xl-pd2{
+        padding-left: 70px;
+    }
+    .ffs p{
+        font-size: 12px;  
+    }
+    .ffs{
+        font-size: 16px !important;
+    }
+}
+
+@media(min-width:1400px){
+    .font-s{
+        font-size: 40px;
+    }
+    .card-sm-w{
+        width: 306px !important;
+    }
+    .about-us-img1{
+        width: 625px !important;
+    }
+    .per1-box{
+        width: 550px !important;
+        height: 346px !important;
+    }
+    .sm-per-pd{
+        padding-left: 130px !important;
+    }
+    .our-blog-1{
+        width: 625px !important;
+    }
+    .box-xl-pd{
+        padding-left: 0px !important;
+    }
+    .box-xl-pd2{
+        padding-left: 0px !important;
+    }
+    .f-plants-1{
+        width: 306px !important;
+        height: 320px !important;
+        padding-left: 0px;
+    }
+    .fi-1-img{
+        width: 426px !important;
+        height: 320px !important;
+        padding-left: 0px;
+    }
+    .img-width{
+        width: 746px;
+        height: 355px;
+    }
+    .footer-img{
+        height: 300px !important;
+        margin-top: 120px !important;
+    }
+    .ffs{
+        font-size: 30px !important;
+    }
+    .ffs p{
+        font-size: 18px;  
+    }
+    .f-input-w{
+        width: 250px !important;
+    }
+}
